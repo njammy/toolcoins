@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^18.6.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "name": "toolcoins",
+  "description": "- Compare crypto currencies fluctuation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njammy/toolcoins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njammy/toolcoins/issues"
+  },
+  "homepage": "https://github.com/njammy/toolcoins#readme",
+  "dependencies": {
+    "crawler": "^1.3.0"
+  }
+}
