@@ -17,4 +17,6 @@
 
 - [MIT](./LICENSE)
 
-Free Software, **Dear fool-stack dev, Keep It Simple And Stupid :)**
+## Note to me from the future
+
+Free Software, **Dear Keep It Simple please..... :)**
