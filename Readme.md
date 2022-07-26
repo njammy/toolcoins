@@ -17,4 +17,4 @@
 
 - [MIT](./LICENSE)
 
-**Free Software, Hell Yeah!**
+Free Software, **Keep It Simple And Stupid :)**
